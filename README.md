@@ -78,3 +78,13 @@ The styles.css file contains the styling for the chat interface.
 
 ### JavaScript
 The script.js file contains the logic for sending messages, receiving responses, and updating the chat interface.
+
+## Screenshots
+Here are some screenshots of the application:
+
+### Initial Greeting
+![Initial Greeting](screenshots/intro.png)
+
+### Chat Interface
+![User Query](screenshots/chat1.png)
+![Bot Reply](screenshots/chat2.png)
