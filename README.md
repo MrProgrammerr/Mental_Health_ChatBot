@@ -83,8 +83,8 @@ The script.js file contains the logic for sending messages, receiving responses,
 Here are some screenshots of the application:
 
 ### Initial Greeting
-![Initial Greeting](screenshots/intro.png)
+![Initial Greeting](Screenshots/intro.png)
 
 ### Chat Interface
-![User Query](screenshots/chat1.png)
-![Bot Reply](screenshots/chat2.png)
+![User Query](Screenshots/chat1.png)
+![Bot Reply](Screenshots/chat2.png)
